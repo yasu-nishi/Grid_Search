@@ -9,3 +9,5 @@ Replacing or using train data and test data of housing price before starting thi
 Make sure you have already installed the necessary Python packages according to the README in the program repository.
 Open a terminal window and navigate to the project folder. Open the notebook and follow the instructions.
 	jupyter notebook final.ipynb
+
+After training, you can choose the model you want to apply for test data.
